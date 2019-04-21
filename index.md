@@ -12,16 +12,16 @@ exploits in software architecture and designs while delivering value and accompl
 
 The links, description, and programming languages used for t=the Artifacts are as Follow: 
 
-[Design and Engineering](https://github.com/AlexGutierrezSNHU/DesignandEngineering)
+[Design and Engineering](https://alexgutierrezsnhu.github.io/DesignandEngineering/)
 Language Used: C++, GLEW, GLFW, SOIL Libraries
 Description: Visual Basic application that renders a fully textured 3D object with multiple light sources.  
 
-[Data Structures and Algorithms](https://github.com/AlexGutierrezSNHU/DataStructuresandAlgorithms)
+[Data Structures and Algorithms](https://alexgutierrezsnhu.github.io/DataStructuresandAlgorithms)
 Language Used: C++
 Description: An application that reads a CSV file into memory with one of the following data structures:Linked Lists, Binary Trees, or 
 Hash tables. Each Data structure has it's own CRUD functionality and timers used to check performance.
 
-[Databases and Security](https://github.com/AlexGutierrezSNHU/DatabasesandSecurity)
+[Databases and Security](https://alexgutierrezsnhu.github.io/DatabasesandSecurity)
 Languages Used: Python 3.0 & MongoDB
 Description: API to access a MongoDB Database and use HMTL routes to perform basic CRUD activities and Advances Queries
 
@@ -37,4 +37,4 @@ to contact me with an comments you may have.
 
 
 
-### Jekyll Theme Provided by Github
+### Time Machine Theme Provided by Github
