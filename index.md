@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+### WELCOME TO THE ePORTFOLIO FOR ALEJANDRO GUTIERREZ
 
-You can use the [editor on GitHub](https://github.com/AlexGutierrezSNHU/OpenGL/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Design and Engineering Repository
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This Repository is 1 of 3 that have been published to demonstrate the skills that i have learned while completing a Bachelors of 
+Science in Computer Science at Souther New Hampshire Univiversity (SNHU) 
 
-### Markdown
+The collection of three respositories include artifacts that demonstrate my technical abilities as they relate to the following
+skillsets.  Designing and evaluating computing solutions using algorithmic principals. Demonstrating the ability to use  well-founded
+and innovative techniques, skills, and tools in computing practices. Lastly developing a security mindset that anticipates adversarial 
+exploits in software architecture and designs while delivering value and accomplish industry-specific goals.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The links, description, and programming languages used for t=the Artifacts are as Follow: 
 
-```markdown
-Syntax highlighted code block
+[Design and Engineering](https://github.com/AlexGutierrezSNHU/DesignandEngineering)
+Language Used: C++, GLEW, GLFW, SOIL Libraries
+Description: Visual Basic application that renders a fully textured 3D object with multiple light sources.  
 
-# Header 1
-## Header 2
-### Header 3
+[Data Structures and Algorithms](https://github.com/AlexGutierrezSNHU/DataStructuresandAlgorithms)
+Language Used: C++
+Description: An application that reads a CSV file into memory with one of the following data structures:Linked Lists, Binary Trees, or 
+Hash tables. Each Data structure has it's own CRUD functionality and timers used to check performance.
 
-- Bulleted
-- List
+[Databases and Security](https://github.com/AlexGutierrezSNHU/DatabasesandSecurity)
+Languages Used: Python 3.0 & MongoDB
+Description: API to access a MongoDB Database and use HMTL routes to perform basic CRUD activities and Advances Queries
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Thank You for taking the time to visit my Github. I am always open to crtitique in an effort to improve my abilities. Please feel free
+to contact me with an comments you may have. 
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+-Alejandro Gutierrez
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexGutierrezSNHU/OpenGL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Jekyll Theme Provided by Github
